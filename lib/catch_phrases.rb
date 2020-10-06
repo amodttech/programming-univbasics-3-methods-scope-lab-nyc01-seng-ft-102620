@@ -9,11 +9,11 @@ def toadstool
 end
 
 def phrase
-  "It's-a me, Mario!"
+  status = "It's-a me, Mario!"
 end
 
 def link 
-  "It's Dangerous To Go Alone! Take This"
+  status = "It's Dangerous To Go Alone! Take This"
 end
 
 def all_phrases
