@@ -10,7 +10,7 @@ end
 
 def phrase
   status = "It's-a me, Mario!"
-  status
+  puts status
 end
 
 def link 
