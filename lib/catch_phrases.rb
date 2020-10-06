@@ -10,10 +10,12 @@ end
 
 def phrase
   status = "It's-a me, Mario!"
+  status
 end
 
 def link 
   status = "It's Dangerous To Go Alone! Take This"
+  status
 end
 
 def all_phrases
